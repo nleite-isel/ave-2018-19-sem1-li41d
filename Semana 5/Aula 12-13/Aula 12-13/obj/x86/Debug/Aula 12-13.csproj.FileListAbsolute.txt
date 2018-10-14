@@ -1,0 +1,4 @@
+/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Inverno/AVE/LI41D/Aulas/ave-2018-19-sem1-li41d/Semana 5/Aula 12-13/Aula 12-13/obj/x86/Debug/Aula 12-13.csprojResolveAssemblyReference.cache
+/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Inverno/AVE/LI41D/Aulas/ave-2018-19-sem1-li41d/Semana 5/Aula 12-13/Aula 12-13/obj/x86/Debug/Aula 12-13.csproj.CoreCompileInputs.cache
+/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Inverno/AVE/LI41D/Aulas/ave-2018-19-sem1-li41d/Semana 5/Aula 12-13/Aula 12-13/obj/x86/Debug/Aulas10-11.exe
+/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Inverno/AVE/LI41D/Aulas/ave-2018-19-sem1-li41d/Semana 5/Aula 12-13/Aula 12-13/obj/x86/Debug/Aulas10-11.pdb
